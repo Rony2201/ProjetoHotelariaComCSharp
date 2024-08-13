@@ -1,0 +1,14 @@
+C:\Users\ronie\OneDrive\Documentos\PROJETOSCSHARP\bin\Debug\net8.0\PROJETOSCSHARP.exe
+C:\Users\ronie\OneDrive\Documentos\PROJETOSCSHARP\bin\Debug\net8.0\PROJETOSCSHARP.deps.json
+C:\Users\ronie\OneDrive\Documentos\PROJETOSCSHARP\bin\Debug\net8.0\PROJETOSCSHARP.runtimeconfig.json
+C:\Users\ronie\OneDrive\Documentos\PROJETOSCSHARP\bin\Debug\net8.0\PROJETOSCSHARP.dll
+C:\Users\ronie\OneDrive\Documentos\PROJETOSCSHARP\bin\Debug\net8.0\PROJETOSCSHARP.pdb
+C:\Users\ronie\OneDrive\Documentos\PROJETOSCSHARP\obj\Debug\net8.0\PROJETOSCSHARP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronie\OneDrive\Documentos\PROJETOSCSHARP\obj\Debug\net8.0\PROJETOSCSHARP.AssemblyInfoInputs.cache
+C:\Users\ronie\OneDrive\Documentos\PROJETOSCSHARP\obj\Debug\net8.0\PROJETOSCSHARP.AssemblyInfo.cs
+C:\Users\ronie\OneDrive\Documentos\PROJETOSCSHARP\obj\Debug\net8.0\PROJETOSCSHARP.csproj.CoreCompileInputs.cache
+C:\Users\ronie\OneDrive\Documentos\PROJETOSCSHARP\obj\Debug\net8.0\PROJETOSCSHARP.dll
+C:\Users\ronie\OneDrive\Documentos\PROJETOSCSHARP\obj\Debug\net8.0\refint\PROJETOSCSHARP.dll
+C:\Users\ronie\OneDrive\Documentos\PROJETOSCSHARP\obj\Debug\net8.0\PROJETOSCSHARP.pdb
+C:\Users\ronie\OneDrive\Documentos\PROJETOSCSHARP\obj\Debug\net8.0\PROJETOSCSHARP.genruntimeconfig.cache
+C:\Users\ronie\OneDrive\Documentos\PROJETOSCSHARP\obj\Debug\net8.0\ref\PROJETOSCSHARP.dll
